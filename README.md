@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor full-stack com bacharelado em sistemas de informação.</br></br>
 📗Quanto mais aprendo, mais me torno 🍀
-
+</br></br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aldeir-francisco-da-silva-657801192/) 
 
