@@ -1,4 +1,4 @@
-# aldeir
+# Aldeir
 
 Sou um desenvolvedor full-stack com bacharelado em sistemas de informação.</br></br>
 📗Quanto mais aprendo, mais me torno 🍀
